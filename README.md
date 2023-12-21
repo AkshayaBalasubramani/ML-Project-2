@@ -18,3 +18,7 @@ Outline:
 
 
 Then the company will try to create a marketing mix strategy to minimize the Churn rates in the clusters that are the most susespiable to Churn.
+
+#    
+To run the program download the data set attatched and then download the code to run the notebook in either vs/jupyter notebook 
+
